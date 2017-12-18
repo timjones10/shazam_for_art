@@ -77,7 +77,7 @@ It would also be extremely exciting to continue the work on image processing to 
 
 ## Authors
 
-• Ed Lowther
-• Rory Collins
+* Ed Lowther
+* Rory Collins
 * Tim Jones
 * Tom Spencer
