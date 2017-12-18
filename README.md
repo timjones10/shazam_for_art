@@ -48,8 +48,8 @@ Upload an image of a painting and see how it does!
 
 ## Built with
 
-[Python3](https://www.python.org/download/releases/3.0/)
-[Django](https://www.djangoproject.com/) - Web Framework for Python
-[PyTest](https://docs.pytest.org/en/latest/) - Testing Framework
-[Scikit Image](http://scikit-image.org/) - Image Processing in Python
-[Scikit Learn](http://scikit-learn.org/stable/) - Machine Learning in Python
+* [Python3](https://www.python.org/download/releases/3.0/)
+* [Django](https://www.djangoproject.com/) - Web Framework for Python
+* [PyTest](https://docs.pytest.org/en/latest/) - Testing Framework
+* [Scikit Image](http://scikit-image.org/) - Image Processing in Python
+* [Scikit Learn](http://scikit-learn.org/stable/) - Machine Learning in Python
